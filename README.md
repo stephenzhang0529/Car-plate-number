@@ -12,8 +12,8 @@ NEU Datastructure
 （5）可以按城市进行分块索引查找。
 （6）其它完善性或扩展性功能。
 
-**数据类型**   
-- 油车：地方字母+五位车牌号   
+**Data Structure**   
+- Gasoline Car：A regional letter + Five license plates   
 - 电车：地方字母+六位车牌号   
 
 **功能**    
